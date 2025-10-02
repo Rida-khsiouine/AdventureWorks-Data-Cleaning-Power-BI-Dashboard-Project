@@ -75,6 +75,9 @@ AdventureWorks-Project/
 - Built proper relationships for accurate analysis
 - Created star schema for optimal reporting performance
 
+### 5. **Power BI Data Model Structure**
+![Uploading powerbi.png…]()
+
 ---
 
 ## 🛠 Technical Skills Demonstrated
