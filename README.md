@@ -18,7 +18,6 @@ This project demonstrates end-to-end data analytics capabilities by transforming
 ---
 
 ## 📁 Project Structure
-AdventureWorks-Project/
 │
 ├── SQL_Scripts/
 │ ├── DIM_calendar.sql
