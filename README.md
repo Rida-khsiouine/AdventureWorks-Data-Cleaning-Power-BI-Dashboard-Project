@@ -17,28 +17,6 @@ This project demonstrates end-to-end data analytics capabilities by transforming
 
 ---
 
-## 📁 Project Structure
-│
-├── SQL_Scripts/
-│ ├── DIM_calendar.sql
-│ ├── DIM_customer.sql
-│ ├── DIM_Products.sql
-│ └── DIM_internet_sales.sql
-│
-├── Data_Outputs/
-│ ├── DIM_calendar_result.csv
-│ ├── DIM_customer_result.csv
-│ ├── DIM_product_result.csv
-│ └── internet_sales.csv
-│
-├── Dashboard_Screenshot/
-│ └── powerbi_dashboard.png
-│
-├── DATA_SAMPLES.md
-└── README.md
-
----
-
 ## 📈 Power BI Dashboard
 
 ### Complete Business Intelligence Solution
