@@ -83,7 +83,7 @@ AdventureWorks-Project/
 ## 🛠 Technical Skills Demonstrated
 
 ### SQL & Data Engineering
-- **Advanced SQL Querying** - Complex JOINs, CASE statements, filtering
+- **Advanced SQL Querying** - JOINs, CASE statements, filtering
 - **Data Cleansing** - Standardization, NULL handling, format consistency
 - **Data Transformation** - End-to-end data processing pipeline
 - **Data Modeling** - Structured data preparation for analytics
