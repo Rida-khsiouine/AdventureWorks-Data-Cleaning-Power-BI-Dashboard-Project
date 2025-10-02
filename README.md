@@ -76,7 +76,7 @@ AdventureWorks-Project/
 - Created star schema for optimal reporting performance
 
 ### 5. **Power BI Data Model Structure**
-![Uploading powerbi.png…]()
+![Power BI Data Model Structure](https://github.com/Rida-khsiouine/AdventureWorks-Data-Cleaning-Power-BI-Dashboard-Project/blob/ff652a210a9666745e635110eb393936d8908220/%F0%9F%93%B8%20Dashboard_Screenshot/powerbi_dashboard.png)
 
 ---
 
