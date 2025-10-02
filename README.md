@@ -44,7 +44,7 @@ AdventureWorks-Project/
 ## 📈 Power BI Dashboard
 
 ### Complete Business Intelligence Solution
-![AdventureWorks Dashboard]([Dashboard_Screenshot/powerbi_dashboard.png](https://github.com/Rida-khsiouine/AdventureWorks-Data-Cleaning-Power-BI-Dashboard-Project/blob/main/%F0%9F%93%B8%20Dashboard_Screenshot/powerbi_dashboard.png))
+![AdventureWorks Dashboard](📸 Dashboard_Screenshot/powerbi_dashboard.png)
 
 **Dashboard Features:**
 - **Sales Performance** - Revenue totals, trends, and sales analysis
